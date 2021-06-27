@@ -6,6 +6,7 @@ import sys
 
 from animals import cat
 from animals import dog
+from animals import lion
 from animals import sheep
 import animal
 import farm
